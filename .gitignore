@@ -1,0 +1,13 @@
+/.vscode
+/Yolo
+/__pycache__
+/data_person
+/dataset_face
+/dataset_mask
+/face detec.py
+/my-image.png
+/present
+/sound.py
+/test.py
+/train_face_detector.py.py
+/train_mask_detector.py
